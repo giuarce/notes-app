@@ -1,4 +1,5 @@
-    notes-app
+notes-app
 
-*npm i
-*npm start
+    npm i
+    
+    npm start
